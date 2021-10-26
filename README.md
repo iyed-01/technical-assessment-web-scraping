@@ -1,4 +1,4 @@
-# FacebookPostsScraper
+# Facebook Scraper
 
 Scraper for posts in Facebook user profiles, pages and groups.
 
